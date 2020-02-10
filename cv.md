@@ -1,4 +1,5 @@
-###RESUME
+
+### RESUME
 
 1. My name is Anna and surname Pristavka;
 
@@ -10,7 +11,7 @@ It is important for me to realize my dream so that my family and myself are prou
 My dream is to work in a large and successful company.
 I really want to create really high-quality and interesting websites. In the future, do 3D models;
 
-4. I know the following languages ​​- HTML, CSS; JS and REACT basics;
+4. I know the following languages - HTML, CSS; JS and REACT basics;
 
 5. From the last - these are tasks on [CodeWorse](https://www.codewars.com/users/Anna-Pristavka) ;
 
