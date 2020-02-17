@@ -13,7 +13,7 @@ I really want to create really high-quality and interesting websites. In the fut
 
 4. I know the following languages - HTML, CSS; JS and REACT basics;
 
-5. From the last - these are tasks on [CodeWorse](https://www.codewars.com/users/Anna-Pristavka) ;
+5. From the last - these are tasks on [CodeWarse](https://www.codewars.com/users/Anna-Pristavka) ;
 
 6. Now I'm starting to make a website,
 In which I will consider the topic: ANALYSIS OF DATA ON THE ACTIVITY OF USERS OF WEB RESOURCES;
