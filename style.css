@@ -13,7 +13,7 @@ body{
 }
 
 .container{
-    background: url(./images/fon15.jpg) no-repeat;
+    background: url(fon15.jpg) no-repeat;
     background-size: cover;
     
 }
